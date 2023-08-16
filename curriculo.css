@@ -1,0 +1,21 @@
+body {
+    background-color: lightpink;
+    color: rgb(0, 0, 107);
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-style: italic;
+}
+
+.dados{
+    text-align: left;
+    margin-left: 350px;
+    position: absolute;
+}
+
+.contato{
+    margin-top: 50px;
+}
